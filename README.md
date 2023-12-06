@@ -1,2 +1,2 @@
-# Projects
-In this repository, I include personal projects as well as relevant coursework.
+# Marble Solitaire
+Using object oriented programming, we created a fully functional marble solitaire game
